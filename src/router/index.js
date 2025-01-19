@@ -1,11 +1,11 @@
 import { createRouter } from 'vue-router'
 import ToDoList from '../views/ToDoList.vue'
 import { createMemoryHistory } from 'vue-router'
-import Quizz from '@/views/Quizz.vue'
+import Quiz from '@/views/Quiz.vue'
 
 const routes = [
     { path: '/', component: ToDoList },
-    { path: '/quizz', component: Quizz },
+    { path: '/quiz', component: Quiz },
   ]
   
   const router = createRouter({

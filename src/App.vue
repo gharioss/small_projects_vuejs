@@ -9,7 +9,7 @@
 
         <v-spacer></v-spacer>
 
-        <v-btn to="/quizz" variant="outlined" size="small">Quizz ?</v-btn>
+        <v-btn to="/quiz" variant="outlined" size="small">Quizz ?</v-btn>
 
       </v-app-bar>
 
